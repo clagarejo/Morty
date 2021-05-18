@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  width: 95%;
+  margin: auto;
+}
+
+li{ 
+  list-style: none;
+  margin-left: 40px;
+  
+  img{
+    width: 50px;
+  }
+}
+
+.Search{
+  width: 100%;
+
+  input{
+    width: 50%;
+    border-radius: 10px;
+  }
+
+  
+  input:focus{
+    outline: none;
+    border: none;
+  }
+}
